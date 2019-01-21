@@ -6,3 +6,4 @@ class CreateRecipes < ActiveRecord::Migration
       t.integer :cook_time
   end
 end
+end
